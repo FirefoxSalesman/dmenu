@@ -1,0 +1,16 @@
+* HolscherHead's dmenu
+	dmenu, but more rofi-y.
+* Features
+- Plays nicely with xresources
+- Keybinds optimized for colemak: hjkl is now hnei
+- Patches are saved in a separate folder, for reference. They are already applied.
+- Grid layout
+- Center option
+
+* Installation
+#+BEGIN_SRC bash
+sudo make clean install
+#+END_SRC
+
+* Dependencies
+	Nothing outside of the usual dmenu dependencies
